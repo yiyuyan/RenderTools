@@ -1,0 +1,12 @@
+{
+  "hack.name.no_moon": "白天",
+  "hack.name.nw": "无天气",
+  "hack.name.no_hand": "无手渲染",
+  "hack.name.no_under_overlay": "无水/岩浆下渲染",
+  "hack.name.no_fire": "无火渲染",
+  "hack.name.fake_sp": "伪单人模式",
+  "hack.over_xyz": "主世界坐标",
+  "hack.name.high_cd": "高摄影机距离",
+  "hack.name.no_cc": "摄影机穿墙",
+  "hack.name.close_all": "关闭所有功能"
+}

@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.rts.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "rts.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "CameraMixin",
+    "GameRendererMixin",
+    "LevelAccessMixin",
+    "LevelRendererMixin",
+    "ScreenEffectRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

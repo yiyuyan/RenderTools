@@ -1,0 +1,12 @@
+{
+  "hack.name.no_moon": "NoMoon",
+  "hack.name.nw": "NoWeather",
+  "hack.name.no_hand": "NoHandOverlay",
+  "hack.name.no_under_overlay": "NoUnderOverlay",
+  "hack.name.no_fire": "NoFireOverlay",
+  "hack.name.fake_sp": "FakeSinglePlayerMode",
+  "hack.over_xyz": "OverWorldXYZ",
+  "hack.name.high_cd": "HighCameraDistance",
+  "hack.name.no_cc": "NoCameraClip",
+  "hack.name.close_all": "CloseAll"
+}
